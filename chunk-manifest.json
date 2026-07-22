@@ -1,0 +1,11 @@
+{
+  "Build/StrikerDummies.data.unityweb": {
+    "size": 35240786,
+    "sha256": "2d1dea2892216674f7354515159656f75591213fded313d5f78e8ce880d3f3f1",
+    "type": "application/octet-stream",
+    "parts": [
+      "Build/StrikerDummies.data.unityweb.chunks/part-000.bin",
+      "Build/StrikerDummies.data.unityweb.chunks/part-001.bin"
+    ]
+  }
+}

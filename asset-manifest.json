@@ -1,0 +1,275 @@
+{
+  "name": "Striker Dummies",
+  "slug": "striker-dummies",
+  "entryUrl": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/index.html",
+  "capturedAt": "2026-07-22T10:14:21.912Z",
+  "navigationError": null,
+  "assets": [
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/index.html",
+      "file": "index.html",
+      "bytes": 940,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/TemplateData/style.css",
+      "file": "TemplateData/style.css",
+      "bytes": 1668,
+      "status": 200,
+      "type": "stylesheet",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/TemplateData/UnityProgress.js",
+      "file": "TemplateData/UnityProgress.js",
+      "bytes": 1186,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/Build/UnityLoader.js",
+      "file": "Build/UnityLoader.js",
+      "bytes": 157128,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/TemplateData/webgl-logo.png",
+      "file": "TemplateData/webgl-logo.png",
+      "bytes": 3587,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/TemplateData/fullscreen.png",
+      "file": "TemplateData/fullscreen.png",
+      "bytes": 345,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/Build/StrikerDummies.json",
+      "file": "Build/StrikerDummies.json",
+      "bytes": 629,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/Build/StrikerDummies.wasm.framework.unityweb",
+      "file": "Build/StrikerDummies.wasm.framework.unityweb",
+      "bytes": 94176,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/TemplateData/progressEmpty.Dark.png",
+      "file": "TemplateData/progressEmpty.Dark.png",
+      "bytes": 155,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/TemplateData/progressLogo.Dark.png",
+      "file": "TemplateData/progressLogo.Dark.png",
+      "bytes": 2343,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/TemplateData/progressFull.Dark.png",
+      "file": "TemplateData/progressFull.Dark.png",
+      "bytes": 137,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/Build/StrikerDummies.wasm.code.unityweb",
+      "file": "Build/StrikerDummies.wasm.code.unityweb",
+      "bytes": 5302061,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/5395ef221e064277b8d8d7a6ba0496c9/Build/StrikerDummies.data.unityweb",
+      "file": "Build/StrikerDummies.data.unityweb",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.getResponseBody): Request content was evicted from inspector cache"
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/main.min.js",
+      "file": "_external/html5.api.gamedistribution.com/main.min.js",
+      "bytes": 648851,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://game.api.gamedistribution.com/game/v4/get/5395ef221e064277b8d8d7a6ba0496c9/?domain=html5.gamedistribution.com&v=1.43.58&engn=Windows&localTime=17",
+      "file": "_external/game.api.gamedistribution.com/game/v4/get/5395ef221e064277b8d8d7a6ba0496c9/index.html",
+      "bytes": 5567,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "file": "_external/pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "bytes": 38792,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IjUzOTVlZjIyMWUwNjQyNzdiOGQ4ZDdhNmJhMDQ5NmM5IiwidGRtbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwiZG9tbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwicmZyciI6Imh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vNTM5NWVmMjIxZTA2NDI3N2I4ZDhkN2E2YmEwNDk2YzkvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjIsImFyZ3MiOnsibWVzc2FnZSI6ImxvYWRpbmcifSwidHRsZSI6IlVuaXR5IFdlYkdMIFBsYXllciB8IFN0cmlrZXIgRHVtbWllcyIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkNocm9tZSIsImJybWoiOiIxMzgiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOnRydWUsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6dHJ1ZSwiY21wZSI6ZmFsc2UsImhvc3QiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSJ9XQ%3D%3D&ts=1784715245599",
+      "file": "_external/msgrt.gamedistribution.com/collect",
+      "bytes": 2,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/headerlift.min.js?referer=html5.gamedistribution.com",
+      "file": "_external/hb.improvedigital.com/pbw/headerlift.min.js",
+      "bytes": 204786,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.gamemonkey.org/gamemonkey-sdk-javascript/5.1.1/script/gamemonkey-sdk.js",
+      "file": "_external/cdn.gamemonkey.org/gamemonkey-sdk-javascript/5.1.1/script/gamemonkey-sdk.js",
+      "bytes": 52854,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "file": "_external/hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "bytes": 615045,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwcyUzQSUyRiUyRmh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tJTJGcnZ2QVNNaU0lMkY1Mzk1ZWYyMjFlMDY0Mjc3YjhkOGQ3YTZiYTA0OTZjOSUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJkcHRoIjowLCJhcmdzIjp7ImdpZCI6InN0cmlrZXItZHVtbWllcyIsIm1kNSI6IjUzOTVlZjIyMWUwNjQyNzdiOGQ4ZDdhNmJhMDQ5NmM5IiwicGlkIjowLCJwbm0iOiJTcGlsIEdhbWVzIiwiY3RyeSI6IlZOIiwibGNsIjoiZW4iLCJobGUiOjEsImFkcyI6MSwiaHJlZiI6Imh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vNTM5NWVmMjIxZTA2NDI3N2I4ZDhkN2E2YmEwNDk2YzkvaW5kZXguaHRtbCIsImRlcHRoIjp7InZhbHVlIjowfSwidG9wIjp7ImRvbWFpbiI6eyJmcm9tIjoic2VsZi10b3AiLCJ2YWx1ZSI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIn19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwiZnJvbSI6ImZhbGxiYWNrIn0sInVybCI6eyJ2YWx1ZSI6Imh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vNTM5NWVmMjIxZTA2NDI3N2I4ZDhkN2E2YmEwNDk2YzkvaW5kZXguaHRtbCIsImZyb20iOiJzZWxmLXRvcCJ9fX0sInVhIjp7ImJybm0iOiJDaHJvbWUiLCJicnZzIjoiMTM4Iiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D",
+      "file": "_external/tag.atom.gamedistribution.com/v1/dmp",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://pub.headerlift.com/opphb?page_url=html5.gamedistribution.com&page_type=gd&page_width=1280&aid=5395ef221e064277b8d8d7a6ba0496c9",
+      "file": "_external/pub.headerlift.com/opphb",
+      "bytes": 6741,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "file": "_external/cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "bytes": 106043,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "file": "_external/cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "bytes": 13413,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.google.com.vn/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-PLRTBHGSEL&cid=1034853384.1784715247&gtm=45je67l0h2v9165161826za200zd9165161826&rcb=3&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118395334~118897920~118897930~118981136~119724322~119773331~119896803&z=2122280733",
+      "file": "_external/www.google.com.vn/ads/ga-audiences",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://s0.2mdn.net/instream/video/client.js",
+      "file": "_external/s0.2mdn.net/instream/video/client.js",
+      "bytes": 44701,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-07-22T10:47:29.275Z",
+    "navigationError": null,
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Failed to load resource: the server responded with a status of 403 ()",
+      "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ],
+    "pageErrors": [
+      "Failed to read the 'serviceWorker' property from 'Navigator': Service worker is disabled because the context is sandboxed and lacks the 'allow-same-origin' flag.",
+      "Failed to read the 'serviceWorker' property from 'Navigator': Service worker is disabled because the context is sandboxed and lacks the 'allow-same-origin' flag."
+    ],
+    "failedAssets": [
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwJTNBJTJGJTJGMTI3LjAuMC4xJTNBNjQ4NzUlMkZzdHJpa2VyLWR1bW1pZXMlMkZpbmRleC5odG1sIiwicmZyIjoiIiwidGRtbiI6IjEyNy4wLjAuMTo2NDg3NSIsImRwdGgiOjAsImFyZ3MiOnsiZ2lkIjoic3RyaWtlci1kdW1taWVzIiwibWQ1IjoiNTM5NWVmMjIxZTA2NDI3N2I4ZDhkN2E2YmEwNDk2YzkiLCJwaWQiOjAsImN0cnkiOiJWTiIsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImhyZWYiOiJodHRwOi8vMTI3LjAuMC4xOjY0ODc1L3N0cmlrZXItZHVtbWllcy9pbmRleC5odG1sIiwiZGVwdGgiOnsidmFsdWUiOjB9LCJ0b3AiOnsiZG9tYWluIjp7ImZyb20iOiJzZWxmLXRvcCIsInZhbHVlIjoiMTI3LjAuMC4xOjY0ODc1In19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6IjEyNy4wLjAuMTo2NDg3NSIsImZyb20iOiJmYWxsYmFjayJ9LCJ1cmwiOnsidmFsdWUiOiJodHRwOi8vMTI3LjAuMC4xOjY0ODc1L3N0cmlrZXItZHVtbWllcy9pbmRleC5odG1sIiwiZnJvbSI6InNlbGYtdG9wIn19fSwidWEiOnsiYnJubSI6IkVkZ2UiLCJicnZzIjoiMTUwLjAuMC4wIiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D :: net::ERR_ABORTED",
+      "https://analytics.google.com/g/collect?v=2&tid=G-PLRTBHGSEL&gtm=45je67k1v9165161826za200zd9165161826&_p=1784717238990&em=tv.1~ec.e3&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1616844564&_eu=AAAAAGAC&are=1&cid=1301140871.1784717239&ec_mode=a&frm=0&pscdl=noapi&rcb=1&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.129%7CMicrosoft%2520Edge%3B150.0.4078.83&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938465~115938468~118395334~118897920~118897930~119773332~119896803&sid=1784717239&sct=1&seg=0&dl=http%3A%2F%2F127.0.0.1%2Fstriker-dummies%2Findex.html&dt=Unity%20WebGL%20Player%20%7C%20Striker%20Dummies&_tu=QA&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.provider=gd-sdk&epn.page_depth=0&ep.partner_domain_from=fallback&ep.top_domain_from=self-top&ep.top_domain=127.0.0.1%3A64875&ep.parent_domain=127.0.0.1%3A64875&ep.parent_url=http%253A%252F%252F127.0.0.1%253A64875%252Fstriker-dummies%252Findex.html&ep.game_id=5395ef221e064277b8d8d7a6ba0496c9&ep.game_slug=striker-dummies&ep.game_title=Striker%20Dummies&ep.cmp=cmpNotFound&ep.gdpr=cmpNotFound&ep.google_ads=unknown&tfd=2946 :: net::ERR_ABORTED",
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2316275586951220&output=html&adk=1812271804&adf=3025194257&abgtt=1&lmt=1784717239&plat=3%3A16%2C4%3A16%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&format=0x0&url=http%3A%2F%2F127.0.0.1%3A64875%2Fstriker-dummies%2Findex.html&pra=5&aiof=10&asro=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTUwLjAuNDA3OC44MyIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q7QT1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTUwLjAuNzg3MS4xMjkiXSxbIk1pY3Jvc29mdCBFZGdlIiwiMTUwLjAuNDA3OC44MyJdXSwwXQ..&dt=1784717238913&bpp=3&bdt=2833&idt=131&shv=r20260721&mjsv=m202607160101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=809653669052&frm=20&pv=2&u_tz=420&u_his=2&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&dmc=32&adx=-12245933&ady=-12245933&biw=1280&bih=720&scr_x=0&scr_y=0&eid=31099683%2C95396139&oid=2&pvsid=6943091303252446&tmod=1689391172&uas=0&nvt=1&fsapi=1&fc=1920&brdim=10%2C10%2C10%2C10%2C1280%2C0%2C1280%2C720%2C1280%2C720&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&bz=1&ifi=1&uci=a!1&fsb=1&dtd=151 :: HTTP 403",
+      "https://tracker-v4.gamedock.io/v1/events-tracker/track/product/Game%20Distribution/user_id/4f64083b-09c4-42f9-ab0a-77b02126557b :: net::ERR_ABORTED"
+    ],
+    "remoteRequests": [
+      "http://html5.api.gamedistribution.com/main.min.js",
+      "https://html5.api.gamedistribution.com/main.min.js",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IjUzOTVlZjIyMWUwNjQyNzdiOGQ4ZDdhNmJhMDQ5NmM5IiwidGRtbiI6IjEyNy4wLjAuMTo2NDg3NSIsImRvbW4iOiIxMjcuMC4wLjE6NjQ4NzUiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2NDg3NS9zdHJpa2VyLWR1bW1pZXMvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjEsImFyZ3MiOnsibWVzc2FnZSI6ImxvYWRpbmcifSwidHRsZSI6IlVuaXR5IFdlYkdMIFBsYXllciB8IFN0cmlrZXIgRHVtbWllcyIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784717238002",
+      "https://game.api.gamedistribution.com/game/v4/get/5395ef221e064277b8d8d7a6ba0496c9/?domain=127.0.0.1:64875&v=1.43.58&engn=Windows&localTime=17",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IjUzOTVlZjIyMWUwNjQyNzdiOGQ4ZDdhNmJhMDQ5NmM5IiwidGRtbiI6IjEyNy4wLjAuMTo2NDg3NSIsImRvbW4iOiIxMjcuMC4wLjE6NjQ4NzUiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2NDg3NS9zdHJpa2VyLWR1bW1pZXMvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjIsImFyZ3MiOnsibWVzc2FnZSI6ImxvYWRpbmcifSwidHRsZSI6IlVuaXR5IFdlYkdMIFBsYXllciB8IFN0cmlrZXIgRHVtbWllcyIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784717238004",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.success&ar=W3siZ21pZCI6IjUzOTVlZjIyMWUwNjQyNzdiOGQ4ZDdhNmJhMDQ5NmM5IiwidGRtbiI6IjEyNy4wLjAuMTo2NDg3NSIsImRvbW4iOiIxMjcuMC4wLjE6NjQ4NzUiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2NDg3NS9zdHJpa2VyLWR1bW1pZXMvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjEsImFyZ3MiOnsibWVzc2FnZSI6InN1Y2Nlc3MifSwidHRsZSI6IlVuaXR5IFdlYkdMIFBsYXllciB8IFN0cmlrZXIgRHVtbWllcyIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784717238708",
+      "https://pm.azerioncircle.com/p/locus/",
+      "https://www.googletagmanager.com/gtag/js?id=G-PLRTBHGSEL&l=gdSDKDataLayer",
+      "https://cdn.gamemonkey.org/gamemonkey-sdk-javascript/5.1.1/script/gamemonkey-sdk.js",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwJTNBJTJGJTJGMTI3LjAuMC4xJTNBNjQ4NzUlMkZzdHJpa2VyLWR1bW1pZXMlMkZpbmRleC5odG1sIiwicmZyIjoiIiwidGRtbiI6IjEyNy4wLjAuMTo2NDg3NSIsImRwdGgiOjAsImFyZ3MiOnsiZ2lkIjoic3RyaWtlci1kdW1taWVzIiwibWQ1IjoiNTM5NWVmMjIxZTA2NDI3N2I4ZDhkN2E2YmEwNDk2YzkiLCJwaWQiOjAsImN0cnkiOiJWTiIsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImhyZWYiOiJodHRwOi8vMTI3LjAuMC4xOjY0ODc1L3N0cmlrZXItZHVtbWllcy9pbmRleC5odG1sIiwiZGVwdGgiOnsidmFsdWUiOjB9LCJ0b3AiOnsiZG9tYWluIjp7ImZyb20iOiJzZWxmLXRvcCIsInZhbHVlIjoiMTI3LjAuMC4xOjY0ODc1In19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6IjEyNy4wLjAuMTo2NDg3NSIsImZyb20iOiJmYWxsYmFjayJ9LCJ1cmwiOnsidmFsdWUiOiJodHRwOi8vMTI3LjAuMC4xOjY0ODc1L3N0cmlrZXItZHVtbWllcy9pbmRleC5odG1sIiwiZnJvbSI6InNlbGYtdG9wIn19fSwidWEiOnsiYnJubSI6IkVkZ2UiLCJicnZzIjoiMTUwLjAuMC4wIiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D",
+      "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "https://tracker.gamemonkey.org/v1/gamemonkey/track/gd/event/pageview",
+      "https://tracker-v4.gamedock.io/v1/events-tracker/track/product/Game%20Distribution/user_id/4f64083b-09c4-42f9-ab0a-77b02126557b",
+      "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "https://pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202607160101/show_ads_impl_fy2021.js",
+      "https://hb.improvedigital.com/pbw/headerlift.min.js?referer=127.0.0.1%3A64875",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.success&ar=W3siZ21pZCI6IjUzOTVlZjIyMWUwNjQyNzdiOGQ4ZDdhNmJhMDQ5NmM5IiwidGRtbiI6IjEyNy4wLjAuMTo2NDg3NSIsImRvbW4iOiIxMjcuMC4wLjE6NjQ4NzUiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2NDg3NS9zdHJpa2VyLWR1bW1pZXMvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjIsImFyZ3MiOnsibWVzc2FnZSI6InN1Y2Nlc3MifSwidHRsZSI6IlVuaXR5IFdlYkdMIFBsYXllciB8IFN0cmlrZXIgRHVtbWllcyIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784717238921",
+      "https://analytics.google.com/g/collect?v=2&tid=G-PLRTBHGSEL&gtm=45je67k1v9165161826za200zd9165161826&_p=1784717238990&em=tv.1~ec.e3&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1616844564&_eu=AAAAAGAC&are=1&cid=1301140871.1784717239&ec_mode=a&frm=0&pscdl=noapi&rcb=1&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.129%7CMicrosoft%2520Edge%3B150.0.4078.83&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938465~115938468~118395334~118897920~118897930~119773332~119896803&sid=1784717239&sct=1&seg=0&dl=http%3A%2F%2F127.0.0.1%2Fstriker-dummies%2Findex.html&dt=Unity%20WebGL%20Player%20%7C%20Striker%20Dummies&_tu=QA&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.provider=gd-sdk&epn.page_depth=0&ep.partner_domain_from=fallback&ep.top_domain_from=self-top&ep.top_domain=127.0.0.1%3A64875&ep.parent_domain=127.0.0.1%3A64875&ep.parent_url=http%253A%252F%252F127.0.0.1%253A64875%252Fstriker-dummies%252Findex.html&ep.game_id=5395ef221e064277b8d8d7a6ba0496c9&ep.game_slug=striker-dummies&ep.game_title=Striker%20Dummies&ep.cmp=cmpNotFound&ep.gdpr=cmpNotFound&ep.google_ads=unknown&tfd=2946",
+      "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-PLRTBHGSEL&cid=1301140871.1784717239&gtm=45je67k1v9165161826za200zd9165161826&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118395334~118897920~118897930~119773332~119896803",
+      "https://www.google.com.vn/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-PLRTBHGSEL&cid=1301140871.1784717239&gtm=45je67k1v9165161826za200zd9165161826&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118395334~118897920~118897930~119773332~119896803&z=1352550801",
+      "https://pub.headerlift.com/opphb?page_url=127.0.0.1%3A64875&page_type=gd&page_width=1280&aid=5395ef221e064277b8d8d7a6ba0496c9",
+      "https://hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "https://pub.headerlift.com/opphb?page_url=127.0.0.1:64875&page_type=gd&page_width=1280&aid=5395ef221e064277b8d8d7a6ba0496c9",
+      "https://googleads.g.doubleclick.net/pagead/html/r20260721/r20190131/zrt_lookup_fy2021.html",
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2316275586951220&output=html&adk=1812271804&adf=3025194257&abgtt=1&lmt=1784717239&plat=3%3A16%2C4%3A16%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&format=0x0&url=http%3A%2F%2F127.0.0.1%3A64875%2Fstriker-dummies%2Findex.html&pra=5&aiof=10&asro=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTUwLjAuNDA3OC44MyIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q7QT1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTUwLjAuNzg3MS4xMjkiXSxbIk1pY3Jvc29mdCBFZGdlIiwiMTUwLjAuNDA3OC44MyJdXSwwXQ..&dt=1784717238913&bpp=3&bdt=2833&idt=131&shv=r20260721&mjsv=m202607160101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=809653669052&frm=20&pv=2&u_tz=420&u_his=2&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&dmc=32&adx=-12245933&ady=-12245933&biw=1280&bih=720&scr_x=0&scr_y=0&eid=31099683%2C95396139&oid=2&pvsid=6943091303252446&tmod=1689391172&uas=0&nvt=1&fsapi=1&fc=1920&brdim=10%2C10%2C10%2C10%2C1280%2C0%2C1280%2C720%2C1280%2C720&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&bz=1&ifi=1&uci=a!1&fsb=1&dtd=151",
+      "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gda&tv=r20260721&st=env&sjk=6943091303252446",
+      "https://cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+      "https://www.google.com/recaptcha/api2/aframe",
+      "http://imasdk.googleapis.com/js/core/bridge3.777.0_en.html",
+      "https://s0.2mdn.net/instream/video/client.js",
+      "https://pagead2.googlesyndication.com/omsdk/releases/live/omweb-v1.js",
+      "https://pagead2.googlesyndication.com/bg/pxXH9SCqr7lZpm8XdTtCUYpBip37b-GM2-zZfohu92k.js",
+      "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=255&li=gda_r20260721&jk=6943091303252446&rc=",
+      "https://ep2.adtrafficquality.google/generate_204?XEoUAw",
+      "https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=255&t=2&li=gda_r20260721&jk=6943091303252446&bg=!Pj2lPV_NAAaHuSoKp7k7AEcBe5WfOG-rIaMQbr6bm87nS2qANzrxlXv2J9pAUrs9kX3GzI4SD90BuYD1cLtkOaKwaP7O0nFGgAUGEUBYxVk-WW4m_POZJgIAAABQUgAAAARoAQd-ADaoZSBtIlalyj59TWtct_OahDQ2OfSQ-xjW4D1cSKpYJH5fiW-KdOoveA0OEWfRrgOTH71bWKKZAnylULAMDqfWcuL3Wna6EOHTM58IvUwvz9aOMKcAu4wK2DsOAMwdqPjUK14lmFptnR4e5aIUpKC5tvA00nU8REqqBynx8H4RMztnP8F9q2JJ9yKKd9jbUqpq2I7FDbtNheQcNzKuMG73e72ejnU8HgJLBqseeFe8O3azacOB1fBrtA204_RfCL5PaVIMq_MdGPOHcwpnv11sujvT0Vc10SsXgyNrVmQ6OFnwbU_rzEmIWRZ7oVtI6Efco5Da9SDPXeFP7aZDQeD6gYnsrSxDHQhB_yYv35zV7eQ7ltfGVXF39-qE3xUCxXOli9G478Y1BzQ_lTOLrPKP2vO4RCv0J3NUD1gZE1S4zJMVA-9uJhtatwOFeeE9nbuRRaRgvFWMxnE31SfCWql3dw7epdp7_QrzmlM9cqXSyZIFD463zVxTeLcr9FvERrSHD2_mLQrOl78BZC1z-zszMWtLMYVay2vC_nSG6vQisqTu7iuVKzHQPvZV8jRZQOLcXrr6buinK_GF4LLR9wOFFIrFAH8YooZmUL1KBqDdBsuSebXhEaZTLtc2wiK-gCVCmMPdLAAMCNByVcOfzoxvZJ6_x1sypXIa5RNmc7Jfgzwb-SaK3prsEGR8W1JWfaY0Zcqnk59PCSUaJNOU-wmvyyIfVnGmixOu8TARLsTchuFUs8y_GplUXJdzKddTdQ3s53Fn7sPtoWn0u2Z4z2rTYJR98oREQ-OYXeEGc53DRV-znfdmLSlYppvyK8iH5M_8BbPNwdbPgYGZwDyF-oGQdnM8rAJvVes2waFZCtIeXLrldIiPdAJgN3pVSQQ-HzBmYggU8bKm2RcVl4iU5WiQsRYG5Lg"
+    ],
+    "status": "done"
+  }
+}
