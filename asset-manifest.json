@@ -108,7 +108,7 @@
       "error": "response.body: Protocol error (Network.getResponseBody): Request content was evicted from inspector cache"
     },
     {
-      "url": "https://html5.api.gamedistribution.com/main.min.js",
+      "url": "data:text/javascript,void 0",
       "file": "_external/html5.api.gamedistribution.com/main.min.js",
       "bytes": 648851,
       "status": 200,
@@ -230,8 +230,8 @@
       "https://tracker-v4.gamedock.io/v1/events-tracker/track/product/Game%20Distribution/user_id/4f64083b-09c4-42f9-ab0a-77b02126557b :: net::ERR_ABORTED"
     ],
     "remoteRequests": [
-      "http://html5.api.gamedistribution.com/main.min.js",
-      "https://html5.api.gamedistribution.com/main.min.js",
+      "data:text/javascript,void 0",
+      "data:text/javascript,void 0",
       "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IjUzOTVlZjIyMWUwNjQyNzdiOGQ4ZDdhNmJhMDQ5NmM5IiwidGRtbiI6IjEyNy4wLjAuMTo2NDg3NSIsImRvbW4iOiIxMjcuMC4wLjE6NjQ4NzUiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2NDg3NS9zdHJpa2VyLWR1bW1pZXMvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjEsImFyZ3MiOnsibWVzc2FnZSI6ImxvYWRpbmcifSwidHRsZSI6IlVuaXR5IFdlYkdMIFBsYXllciB8IFN0cmlrZXIgRHVtbWllcyIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784717238002",
       "https://game.api.gamedistribution.com/game/v4/get/5395ef221e064277b8d8d7a6ba0496c9/?domain=127.0.0.1:64875&v=1.43.58&engn=Windows&localTime=17",
       "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IjUzOTVlZjIyMWUwNjQyNzdiOGQ4ZDdhNmJhMDQ5NmM5IiwidGRtbiI6IjEyNy4wLjAuMTo2NDg3NSIsImRvbW4iOiIxMjcuMC4wLjE6NjQ4NzUiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2NDg3NS9zdHJpa2VyLWR1bW1pZXMvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjIsImFyZ3MiOnsibWVzc2FnZSI6ImxvYWRpbmcifSwidHRsZSI6IlVuaXR5IFdlYkdMIFBsYXllciB8IFN0cmlrZXIgRHVtbWllcyIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784717238004",
