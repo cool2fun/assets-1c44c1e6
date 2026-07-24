@@ -2,14 +2,26 @@
 <html lang="en-us">
   <head>
 <script data-local-runtime-shim>
-window.__gaTracker=window.__gaTracker||function(){};
-window.gdsdk=window.gdsdk||{showAd:function(){return Promise.resolve();},preloadAd:function(){return Promise.resolve();}};
-window.GameMonetize=window.GameMonetize||{};
+(function () {
+  window.__gaTracker = window.__gaTracker || function () {};
+  window.GameMonetize = window.GameMonetize || {};
+  var sdk = window.gdsdk || {};
+  sdk.AdType = sdk.AdType || { Interstitial: 0, Rewarded: 1, Display: 2 };
+  function emit(name) {
+    var options = window.GD_OPTIONS;
+    if (options && typeof options.onEvent === "function") options.onEvent({ name: name });
+  }
+  sdk.preloadAd = function () { return Promise.resolve("gdsdk://preloaded"); };
+  sdk.showAd = function () {
+    emit("SDK_GAME_PAUSE");
+    return Promise.resolve().then(function () { emit("SDK_GAME_START"); return true; });
+  };
+  window.gdsdk = sdk;
+})();
 </script>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | Striker Dummies</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
     <script src="TemplateData/UnityProgress.js"></script>
     <script src="Build/UnityLoader.js"></script>
